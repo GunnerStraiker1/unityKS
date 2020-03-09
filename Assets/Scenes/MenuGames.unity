@@ -1627,7 +1627,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: SELECCIONE UN JUEGO
+  m_Text: SELECCIONA
 --- !u!222 &1932342058
 CanvasRenderer:
   m_ObjectHideFlags: 0
