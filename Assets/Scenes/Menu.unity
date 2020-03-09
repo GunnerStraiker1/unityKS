@@ -392,8 +392,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 820, y: 0.05041504}
-  m_SizeDelta: {x: -1735, y: 0}
+  m_AnchoredPosition: {x: 518.3, y: -92.1}
+  m_SizeDelta: {x: -1331.2, y: -184.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &867774236
 MonoBehaviour:
@@ -415,7 +415,7 @@ MonoBehaviour:
   m_ChildAlignment: 4
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 800, y: 300}
+  m_CellSize: {x: 700, y: 200}
   m_Spacing: {x: 0, y: 100}
   m_Constraint: 0
   m_ConstraintCount: 2
@@ -490,8 +490,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -541.6, y: 408.6}
-  m_SizeDelta: {x: -1083.3, y: -817.2}
+  m_AnchoredPosition: {x: -428.6, y: 443.1}
+  m_SizeDelta: {x: -857.4, y: -886.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &973093784
 MonoBehaviour:
@@ -593,17 +593,17 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1017736310}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 1
+  m_UiScaleMode: 0
   m_ReferencePixelsPerUnit: 100
-  m_ScaleFactor: 1
+  m_ScaleFactor: 0.78
   m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 1
+  m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -663,8 +663,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0015869, y: 0.000030518}
-  m_SizeDelta: {x: 1256, y: 262.75}
+  m_AnchoredPosition: {x: -0.010002, y: 0.000030518}
+  m_SizeDelta: {x: 836.68, y: 262.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1026515605
 MonoBehaviour:
@@ -1023,12 +1023,12 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.5935002, g: 0.6981132, b: 0.023050921, a: 1}
-    m_PressedColor: {r: 0.6981132, g: 0.6946572, b: 0, a: 1}
-    m_SelectedColor: {r: 0.7752878, g: 0.9622642, b: 0, a: 0.64705884}
+    m_HighlightedColor: {r: 0.8430233, g: 1, b: 0, a: 1}
+    m_PressedColor: {r: 1, g: 0.23303269, b: 0.15566039, a: 1}
+    m_SelectedColor: {r: 0.8431373, g: 1, b: 0, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
-    m_FadeDuration: 1
+    m_FadeDuration: 0.5
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
     m_PressedSprite: {fileID: 0}
@@ -1053,7 +1053,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Menu2
+          m_StringArgument: MenuGames
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1619233828
@@ -1127,7 +1127,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.025390625}
+  m_AnchoredPosition: {x: 0, y: 0.0234375}
   m_SizeDelta: {x: -0, y: -0.049988}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1681546657
